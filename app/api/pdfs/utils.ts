@@ -1,4 +1,4 @@
-"use server"
+/* "use server"
 import PDFDocument from 'pdfkit';
 import * as fs from 'fs';
 import path from 'path';
@@ -59,4 +59,4 @@ return {status:true,uri:filePath};
     }finally{
         doc.end();
     }
-}
+} */
